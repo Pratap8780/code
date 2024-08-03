@@ -1,0 +1,321 @@
+
+
+<div class="container">
+    <header class="d-flex justify-content-between py-3">
+        <div class="logo"></div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Contact</a>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </nav>
+    </header>
+
+    <main class="my-5">
+        <section class="text-center my-5">
+            <h1>The future of web design, today</h1>
+            <p>The future of web design, today</p>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </section>
+
+        <section class="text-center my-5 bg-light py-5">
+            <h2>Don’t forget to grab this one, it’s free!</h2>
+            <p>Download the Ultimate con tomate guide.</p>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </section>
+
+        <section class="my-5">
+            <h2>What we do</h2>
+            <p>Our mission is very important to the planet: we plant as many trees as possible. Can you figure out?</p>
+            <ul>
+                <li>We recycle everything we see</li>
+                <li>We teach people how to reuse their stuff</li>
+                <li>We believe in human beings as problem solvers</li>
+            </ul>
+        </section>
+
+        <section class="my-5">
+            <h2>Featured things</h2>
+            <p>Our mission is very important to the planet: we plant as many trees as possible. Can you figure out?</p>
+            <div class="d-flex justify-content-around">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Card title</h5>
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <a href="#" class="btn btn-primary">Go somewhere</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+</div>
+
+
+<div class="container">
+    <header class="d-flex justify-content-between py-3">
+        <div class="logo"></div>
+        <nav>
+            <a href="#">Home</a>
+            <a href="#">About Us</a>
+            <a href="#">Shop</a>
+            <a href="#">Contact</a>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </nav>
+    </header>
+
+    <main class="my-5">
+        <section class="text-center my-5">
+            <h1>The future of web design, today</h1>
+            <p>The future of web design, today</p>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </section>
+
+        <section class="text-center my-5 bg-light py-5">
+            <h2>Don’t forget to grab this one, it’s free!</h2>
+            <p>Download the Ultimate con tomate guide.</p>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </section>
+
+        <section class="my-5">
+            <h2>What we do</h2>
+            <p>Our mission is very important to the planet: we plant as many trees as possible. Can you figure out?</p>
+            <ul>
+                <li>We recycle everything we see</li>
+                <li>We teach people how to reuse their stuff</li>
+                <li>We believe in human beings as problem solvers</li>
+            </ul>
+        </section>
+
+        <section class="my-5 text-center">
+            <h2>Featured things</h2>
+            <p>Our mission is very important to the planet: we plant as many trees as possible. Can you figure out?</p>
+            <div class="d-flex justify-content-around">
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">The future of web design, today</h5>
+                        <p class="card-text">The future of web design, today</p>
+                        <a href="#" class="btn btn-outline-primary">Call to action</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">The future of web design, today</h5>
+                        <p class="card-text">The future of web design, today</p>
+                        <a href="#" class="btn btn-outline-primary">Call to action</a>
+                    </div>
+                </div>
+                <div class="card" style="width: 18rem;">
+                    <div class="card-body">
+                        <h5 class="card-title">The future of web design, today</h5>
+                        <p class="card-text">The future of web design, today</p>
+                        <a href="#" class="btn btn-outline-primary">Call to action</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="text-center my-5">
+            <p>Our mission is very important to the planet: we plant as many trees as possible. Can you figure out?</p>
+            <a href="#" class="btn btn-primary">Call to action</a>
+        </section>
+    </main>
+
+    <footer class="bg-dark text-white py-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="footer-logo">LOGO</div>
+                    <p>Our mission is very important to the planet: we plant as many trees as possible. Can you figure out?</p>
+                </div>
+                <div class="col-md-4">
+                    <h5>More information</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#">Home</a></li>
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Shop</a></li>
+                        <li><a href="#">Contact</a></li>
+                    </ul>
+                    <h5>Stay in contact</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="mailto:info@contact.com">info@contact.com</a></li>
+                        <li><a href="tel:+34654654654">+34 654 654 654</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-4">
+                    <h5>Subscribe now to the newsletter</h5>
+                    <form>
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Your name">
+                        </div>
+                        <div class="form-group">
+                            <input type="email" class="form-control" placeholder="Your email">
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input" id="consent">
+                            <label class="form-check-label" for="consent">I consent to the privacy policy</label>
+                        </div>
+                        <button type="submit" class="btn btn-primary mt-3">Subscribe!</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+<style>
+    .container {
+        max-width: 1200px;
+        margin: 0 auto;
+    }
+    header {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    nav a {
+        margin: 0 10px;
+    }
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+    section {
+        margin-top: 40px;
+    }
+    section.bg-light {
+        background-color: #f8f9fa;
+    }
+    .card {
+        margin: 10px;
+    }
+    .container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav a {
+    margin: 0 10px;
+    color: black;
+    text-decoration: none;
+}
+nav a.btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+nav a.btn:hover {
+    background-color: #0056b3;
+}
+section {
+    margin-top: 40px;
+}
+section.bg-light {
+    background-color: #f8f9fa;
+    padding: 40px 20px;
+}
+.card {
+    margin: 10px;
+}
+.card img {
+    width: 100%;
+    height: auto;
+}
+.card .btn-outline-primary {
+    border-color: #007bff;
+    color: #007bff;
+}
+.card .btn-outline-primary:hover {
+    background-color: #007bff;
+    color: white;
+}
+footer {
+    background-color: #343a40;
+}
+footer .footer-logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+footer a {
+    color: #adb5bd;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #fff;
+}
+footer .form-check-label {
+    color: #adb5bd;
+}
+footer .form-check-input {
+    margin-top: 5px;
+}
+footer .form-group,
+footer .form-check {
+    margin-bottom: 1rem;
+}
+footer .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+footer .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+
+</style>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - YourAppName</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <div class="container">
+        <header>
+            <partial name="_Header" />
+        </header>
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2024 - YourAppName - <a href="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
